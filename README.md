@@ -37,7 +37,7 @@ I'm a passionate developer who loves turning ideas into reality with code. From 
 - 📊 Achieved **1557+ LeetCode Rating**, **1283+ CodeChef**, and active on **CodeForces**  
  
  
-[![Codolio](https://img.shields.io/badge/Codolio-Visit-blueviolet?style=for-the-badge&logo=internet-explorer)]([https://your-codolio-link.com](https://codolio.com/profile/AryanRajput))
+[![Codolio]((https://codolio.com/profile/AryanRajput))]
 
 
 
