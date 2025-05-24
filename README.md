@@ -1,7 +1,7 @@
-# 👋 Hello there! I'm Aryan Rajput
+# 👋 Hey I'm Aryan Rajput
 
 ## 💻 About Me
-I'm a passionate developer who loves turning ideas into reality with code. From building efficient algorithms to designing clean front-end experiences, I enjoy crafting smart and impactful solutions.
+I'm a passionate developer who loves turning ideas into reality with code. From building efficient algorithms to designing full-stack Apps, I enjoy crafting smart and impactful solutions.
 
  🌱 Currently exploring advanced data structures, Algorithms, and competitive programming
  🛠️ Building full-stack applications and solving real-world problems
@@ -36,8 +36,8 @@ I'm a passionate developer who loves turning ideas into reality with code. From 
 - 🏆 Participated in **60+ coding contests** across multiple platforms  
 - 📊 Achieved **1557+ LeetCode Rating**, **1283+ CodeChef**, and active on **CodeForces**  
  
-
-![codolio](https://codolio.com/profile/AryanRajput)
+ 
+[![Codolio](https://img.shields.io/badge/Codolio-Visit-blueviolet?style=for-the-badge&logo=internet-explorer)]([https://your-codolio-link.com](https://codolio.com/profile/AryanRajput))
 
 
 
