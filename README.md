@@ -16,9 +16,17 @@ I am Aryan Rajput From Institute of Engineering Jiwaji University, 2027 passout.
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aryan_rajput42)
 
 
+## 🧩 Highlights
+
+  🎯 Solved over **800+ DSA problems** across LeetCode, CodeChef, and CodeForces  
+  🔥 Maintained a **365-day coding streak** – consistency is key  
+  🏆 Participated in **60+ coding contests** across multiple platforms  
+  📊 Achieved **1557+ LeetCode Rating**, **1283+ CodeChef**, and active on **CodeForces**
+  
+ 
+ [![Codolio](https://img.shields.io/badge/Codolio-Visit-blueviolet?style=for-the-badge&logo=internet-explorer)](https://codolio.com/profile/AryanRajput)
 
 
-## 🧠 Tech Stack & Tools
 ## 🧠 Tech Stack & Tools
 
 ### 🖥️Programming Languages:
@@ -45,21 +53,6 @@ I am Aryan Rajput From Institute of Engineering Jiwaji University, 2027 passout.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-FF6C37?style=for-the-badge&logo=hoppscotch&logoColor=white)
-
-
-
-
-
-## 🧩 Highlights
-
-  🎯 Solved over **800+ DSA problems** across LeetCode, CodeChef, and CodeForces  
-  🔥 Maintained a **365-day coding streak** – consistency is key  
-  🏆 Participated in **60+ coding contests** across multiple platforms  
-  📊 Achieved **1557+ LeetCode Rating**, **1283+ CodeChef**, and active on **CodeForces**
-  
- 
- [![Codolio](https://img.shields.io/badge/Codolio-Visit-blueviolet?style=for-the-badge&logo=internet-explorer)](https://codolio.com/profile/AryanRajput)
-
 
 
 
