@@ -1,12 +1,19 @@
 # 👋 Hey I'm Aryan Rajput
 
 ## 💻 About Me
+I am Aryan Rajput From Institute of Engineering Jiwaji University, 2027 passout
 I'm a passionate developer who loves turning ideas into reality with code. From building efficient algorithms to designing full-stack Apps, I enjoy crafting smart and impactful solutions.
 
  🌱 Currently exploring advanced data structures, Algorithms, and competitive programming
  🛠️ Building full-stack applications and solving real-world problems
  💡 Always eager to learn new tech and collaborate on innovative projects
 
+
+## 🧠 Coding Platform Links
+ 
+<p align="left"> <a href="https://leetcode.com/u/Aryan_Rajput4266/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a>
+ <a href="https://codeforces.com/profile/Aryan_Rajput4266" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> 
+ <a href="https://www.codechef.com/users/aryan_rajput42" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> 
 
 
 ## 🧠 Tech Stack & Tools
