@@ -11,9 +11,19 @@ I'm a passionate developer who loves turning ideas into reality with code. From 
 
 ## 🧠 Coding Platform Links
  
-<p align="left"> <a href="https://leetcode.com/u/Aryan_Rajput4266/" target="blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a>
- <a href="https://codeforces.com/profile/Aryan_Rajput4266" target="blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> 
- <a href="https://www.codechef.com/users/aryan_rajput42" target="blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> 
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <a href="https://leetcode.com/u/Aryan_Rajput4266/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/Aryan_Rajput4266" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/aryan_rajput42" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
 
 
 ## 🧠 Tech Stack & Tools
