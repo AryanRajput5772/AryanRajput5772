@@ -1,8 +1,8 @@
 # 👋 Hey I'm Aryan Rajput
 
 ## 💻 About Me
-I am Aryan Rajput From Institute of Engineering Jiwaji University, 2027 passout
-I'm a passionate developer who loves turning ideas into reality with code. From building efficient algorithms to designing full-stack Apps, I enjoy crafting smart and impactful solutions.
+I am Aryan Rajput From Institute of Engineering Jiwaji University, 2027 passout. 
+ I'm a passionate developer who loves turning ideas into reality with code. From building efficient algorithms to designing full-stack Apps, I enjoy crafting smart and impactful solutions.
 
  🌱 Currently exploring advanced data structures, Algorithms, and competitive programming
  🛠️ Building full-stack applications and solving real-world problems
