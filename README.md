@@ -21,7 +21,7 @@ I am Aryan Rajput From Institute of Engineering Jiwaji University, 2027 passout.
   🎯 Solved over **800+ DSA problems** across LeetCode, CodeChef, and CodeForces  
   🔥 Maintained a **365-day coding streak** – consistency is key  
   🏆 Participated in **60+ coding contests** across multiple platforms  
-  📊 Achieved **1557+ LeetCode Rating**, **1283+ CodeChef**, and active on **CodeForces**
+  📊 Achieved **1567+ LeetCode Rating**, **1283+ CodeChef**, and active on **CodeForces**
   
  
  [![Codolio](https://img.shields.io/badge/Codolio-Visit-blueviolet?style=for-the-badge&logo=internet-explorer)](https://codolio.com/profile/AryanRajput)
